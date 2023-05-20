@@ -1,0 +1,23 @@
+.heading{
+    text-align: center;
+    font-size: xx-large;
+}
+.row{
+    
+    text-align: center;
+    font-size: xxx-large;
+}
+.button{
+    font-size: xx-large;
+    cursor: pointer;
+    text-shadow: 1px;
+    color: gray;
+    border-radius: 10px;
+}
+
+.input{
+    margin-left: 39%;
+    margin-bottom: 5px;
+    padding-top: 8px;
+    
+}
